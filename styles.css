@@ -1,2 +1,9 @@
-
+#name{
+    max-width: 500px;
+    margin: 10px;
+    padding: 20px;
+    border-left: 8px solid green;
+    font-weight: bold;
+}
+/* Your CSS Code here. */
 /* Your CSS Code here. */
